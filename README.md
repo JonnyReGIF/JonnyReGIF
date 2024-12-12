@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JonnyReGIF
 - 👀 I’m interested in Geography and Remote Sensing
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning R and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jonathan.renkel@web.de
 
